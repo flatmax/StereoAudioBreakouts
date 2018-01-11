@@ -1,4 +1,4 @@
-# StereoAudioBreakouts
-Breakout boards for stereo audio, usefull for the Audio Injector sound cards.
+This repo has moved to :
 
-www.audioinjector.net
+https://github.com/flatmax2/StereoAudioBreakouts
+
